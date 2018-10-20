@@ -9,9 +9,9 @@ public class jsonjava {
 	public static void main(String[] args) {
 		customer cus1 = new customer();
 		cus1.id = "2";
-		cus1.name = "Harry";
+		//cus1.name = "Harry";
 		address add =  new address();
-		add.lane = "wdfg";
+		//add.lane = "wdfg";
 		add.pincode = "2345";
 		cus1.map.put("home", add);
 		
