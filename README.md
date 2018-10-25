@@ -1,5 +1,5 @@
 # Serialization of Java Object for Hyperledger v1.3
-Serialization and Deserialization in Java. Object to Byte[] Array and Byte[] Array to Object
+Serialization and Deserialization in Java. Object to Byte[] Array and Byte[] Array to Object to use in:
 
 
 
