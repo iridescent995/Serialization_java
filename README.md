@@ -1,5 +1,7 @@
 # Serialization of Java Object for Hyperledger v1.3
-Serialization and Deserialization in Java. Object to Byte[] Array and Byte[] Array to Object to use in:
+Serialization and Deserialization in Java. Object to Byte[] Array and Byte[] Array to Object to use in Hyperledger v1.3 to store state as a byte[] array instead of a String:
+
+By:
 ```
 putState(java.lang.String key, byte[] value)
 ```
