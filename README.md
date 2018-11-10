@@ -48,7 +48,6 @@ public class Bytearray {
 		}
 
 		private static byte[] getbytes(test obj) {
-			// TODO Auto-generated method stub
 			byte[] data= null;
 			
 			try {
